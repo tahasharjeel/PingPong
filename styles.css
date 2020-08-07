@@ -1,0 +1,20 @@
+body{
+  background-color : #364f6b;
+}
+
+.game{
+  border-style: solid;
+  border-color: #00adb5;
+  border-width: 10px;
+  width: 800px;
+  height: 500px;
+  margin:auto;
+  margin-top: 20px;
+}
+
+.heading{
+  color: #00adb5;
+  font-family: 'Lemonada', cursive;
+  text-align: center;
+  font-size: 300%;
+}
