@@ -6,10 +6,10 @@ let wall = new Audio();
 let userScore = new Audio();
 let aiScore = new Audio();
 
-hit.src = "sounds/hit.mp3";
-wall.src = "sounds/wall.mp3";
-aiScore.src = "sounds/comScore.mp3";
-userScore.src = "sounds/userScore.mp3";
+hit.src = "hit.mp3";
+wall.src = "wall.mp3";
+aiScore.src = "comScore.mp3";
+userScore.src = "userScore.mp3";
 
 const ball = {
   x:canvas.width/2,
